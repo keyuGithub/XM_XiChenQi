@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 make change
+=======
+How to use SourceTree to manage our files:
+>>>>>>> 911cb7c2286b4aec7332d46bf4e98bf1f0c0c5a4
