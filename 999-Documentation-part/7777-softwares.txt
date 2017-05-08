@@ -6,4 +6,6 @@ http://www-01.ibm.com/support/docview.wss?uid=swg21363866
 
 Sourcetree ? Alternative for linux? OKAY with Windows and MacOS
 
+need explanation, why we need individual DEV on remote?
+
 
